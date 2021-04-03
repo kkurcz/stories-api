@@ -3,9 +3,9 @@
 one:
   name: MyString
   content: MyString
-  references: 
+  story: one
 
 two:
   name: MyString
   content: MyString
-  references: 
+  story: two
